@@ -1,20 +1,10 @@
-# AI Mining Analyst Plugins
-
-Plugins that turn Claude into a specialist for mining investment analysis — resource estimation, project valuation, basket construction, RWA tokenization, and commodity intelligence. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).
-
-## Why Plugins
-
-Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how your firm does analysis, which data sources to pull from, how to handle critical workflows, and what slash commands to expose — so your team gets better and more consistent outcomes.
-
-Each plugin bundles the skills, connectors, slash commands, and reference materials for a specific mining analysis workflow. Out of the box, they give Claude a strong starting point for helping anyone in the mining investment space. The real power comes when you customize them for your firm — your models, your templates, your processes — so Claude works like it was built for your team.
-
-## What is the AI Mining Analyst?
+# AI Mining Analyst v0
 
 The AI Mining Analyst is a comprehensive plugin suite built for [Minestarters](https://minestarters.com), a blockchain-based platform for tokenized real-world mining assets (RWAs). It connects Claude to mining data sources and tools — eliminating the need to juggle multiple browser tabs and improving source verification to reduce errors from manual data gathering.
 
 ## End-to-End Workflows
 
-These plugins aren't just a collection of point tools — they enable complete workflows that span exploration through tokenization:
+These plugins enable complete workflows that span exploration through tokenization:
 
 - **Exploration to Resource**: Analyze drill results, interpret geological data, classify resources per JORC/NI 43-101, and generate resource statements — all in a single session
 - **Project Valuation**: Build DCF models with mining-specific inputs (strip ratios, recovery rates, mine life), run Bear/Base/Bull scenarios, and benchmark against comparable projects
