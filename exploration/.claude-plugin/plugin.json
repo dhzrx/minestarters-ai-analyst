@@ -1,0 +1,19 @@
+{
+  "name": "exploration",
+  "display_name": "Exploration & Prospecting",
+  "description": "Exploration and prospecting analysis — drill result interpretation, geological assessment, target mineral analysis, and exploration reporting.",
+  "version": "1.0.0",
+  "author": "Minestarters",
+  "skills": [
+    "skills/drill-results",
+    "skills/geological-assessment",
+    "skills/target-mineral-analysis",
+    "skills/exploration-report"
+  ],
+  "commands": [
+    "commands/drill-analysis.md",
+    "commands/geo-assessment.md",
+    "commands/target-minerals.md",
+    "commands/exploration-report.md"
+  ]
+}

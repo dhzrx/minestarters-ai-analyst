@@ -1,0 +1,19 @@
+{
+  "name": "commodity-intelligence",
+  "display_name": "Commodity Intelligence",
+  "description": "Market intelligence for mining commodities — price forecasting, supply/demand modeling, critical minerals tracking, and market briefs.",
+  "version": "1.0.0",
+  "author": "Minestarters",
+  "skills": [
+    "skills/price-forecasting",
+    "skills/supply-demand",
+    "skills/critical-minerals-tracker",
+    "skills/market-brief"
+  ],
+  "commands": [
+    "commands/price-forecast.md",
+    "commands/supply-demand.md",
+    "commands/critical-minerals.md",
+    "commands/market-brief.md"
+  ]
+}

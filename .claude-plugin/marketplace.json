@@ -1,0 +1,40 @@
+{
+  "name": "mining-analyst",
+  "display_name": "AI Mining Analyst",
+  "description": "Comprehensive AI-powered mining project analysis, valuation, basket construction, tokenization, and commodity intelligence for Minestarters RWA platform.",
+  "version": "1.0.0",
+  "author": "Minestarters",
+  "plugins": [
+    {
+      "name": "mining-analysis",
+      "path": "mining-analysis",
+      "description": "Core mining analysis — resource estimation, mineral valuation, project screening, competitive analysis, and model validation.",
+      "required": true
+    },
+    {
+      "name": "exploration",
+      "path": "exploration",
+      "description": "Exploration & prospecting — drill analysis, geological assessment, target mineral analysis, exploration reporting."
+    },
+    {
+      "name": "project-evaluation",
+      "path": "project-evaluation",
+      "description": "Due diligence & feasibility — feasibility studies, DD checklists, risk assessment, comparable projects, CAPEX/OPEX modeling."
+    },
+    {
+      "name": "basket-vault",
+      "path": "basket-vault",
+      "description": "Basket creation & vault management — basket building, NAV tracking, portfolio rebalancing, vault reporting, RPA modeling."
+    },
+    {
+      "name": "tokenization",
+      "path": "tokenization",
+      "description": "RWA tokenization & token economics — ART/MINE token modeling, RWA structuring, compliance screening, oracle verification."
+    },
+    {
+      "name": "commodity-intelligence",
+      "path": "commodity-intelligence",
+      "description": "Market intelligence — commodity price forecasting, supply/demand analysis, critical minerals tracking, market briefs."
+    }
+  ]
+}

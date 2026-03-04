@@ -1,0 +1,19 @@
+{
+  "name": "tokenization",
+  "display_name": "RWA Tokenization",
+  "description": "RWA tokenization and token economics — ART stablecoin and MINE utility token modeling, RWA structuring, compliance screening, and oracle verification workflows.",
+  "version": "1.0.0",
+  "author": "Minestarters",
+  "skills": [
+    "skills/token-economics",
+    "skills/rwa-structuring",
+    "skills/compliance-screening",
+    "skills/oracle-verification"
+  ],
+  "commands": [
+    "commands/token-model.md",
+    "commands/art-analysis.md",
+    "commands/mine-analysis.md",
+    "commands/compliance-check.md"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mining-analysis",
+  "display_name": "Mining Analysis",
+  "description": "Core mining analysis capabilities — resource estimation (JORC/NI 43-101), mineral valuation (NPV/IRR/DCF), project screening, competitive analysis, and financial model validation.",
+  "version": "1.0.0",
+  "author": "Minestarters",
+  "skills": [
+    "skills/resource-estimation",
+    "skills/mineral-valuation",
+    "skills/project-screening",
+    "skills/competitive-analysis",
+    "skills/check-model",
+    "skills/skill-creator"
+  ],
+  "commands": [
+    "commands/resource-estimate.md",
+    "commands/mineral-valuation.md",
+    "commands/project-screen.md",
+    "commands/competitive-analysis.md",
+    "commands/debug-model.md"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "basket-vault",
+  "display_name": "Basket & Vault Management",
+  "description": "Basket creation and vault management — diversified mining basket construction, NAV tracking, portfolio rebalancing, vault reporting, and RPA modeling.",
+  "version": "1.0.0",
+  "author": "Minestarters",
+  "skills": [
+    "skills/basket-builder",
+    "skills/nav-tracking",
+    "skills/portfolio-rebalance",
+    "skills/vault-report",
+    "skills/rpa-modeling"
+  ],
+  "commands": [
+    "commands/create-basket.md",
+    "commands/nav-tracker.md",
+    "commands/rebalance.md",
+    "commands/vault-report.md",
+    "commands/rpa-model.md"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "project-evaluation",
+  "display_name": "Project Evaluation",
+  "description": "Due diligence and feasibility analysis — PFS/BFS/DFS evaluation, DD checklists, risk assessment, comparable project analysis, and CAPEX/OPEX modeling.",
+  "version": "1.0.0",
+  "author": "Minestarters",
+  "skills": [
+    "skills/feasibility-study",
+    "skills/dd-checklist",
+    "skills/risk-assessment",
+    "skills/comparable-projects",
+    "skills/capex-opex-model"
+  ],
+  "commands": [
+    "commands/feasibility.md",
+    "commands/dd-checklist.md",
+    "commands/risk-assessment.md",
+    "commands/comps.md",
+    "commands/capex-opex.md"
+  ]
+}

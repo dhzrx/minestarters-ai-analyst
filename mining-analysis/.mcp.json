@@ -1,0 +1,54 @@
+{
+  "mcpServers": {
+    "usgs-mineral-data": {
+      "url": "https://mrdata.usgs.gov/",
+      "description": "USGS Mineral Resources Data System — geological data, commodity statistics, deposit databases.",
+      "transport": "http",
+      "status": "active"
+    },
+    "lme-metals": {
+      "url": "https://www.lme.com/api/",
+      "description": "London Metal Exchange — base metals pricing (Cu, Al, Zn, Ni, Pb, Sn).",
+      "transport": "http",
+      "status": "placeholder"
+    },
+    "kitco-precious": {
+      "url": "https://www.kitco.com/",
+      "description": "Kitco — precious metals pricing and charts (Au, Ag, Pt, Pd).",
+      "transport": "http",
+      "status": "placeholder"
+    },
+    "sp-global-mining": {
+      "url": "https://www.spglobal.com/marketintelligence/",
+      "description": "S&P Global Market Intelligence — mining company data, project databases. Requires subscription.",
+      "transport": "http",
+      "status": "placeholder",
+      "auth": "subscription-required"
+    },
+    "mining-com": {
+      "url": "https://www.mining.com/",
+      "description": "Mining.com — mining industry news, project data, commodity updates.",
+      "transport": "http",
+      "status": "placeholder"
+    },
+    "sec-edgar": {
+      "url": "https://efts.sec.gov/LATEST/",
+      "description": "SEC EDGAR — US mining company filings (10-K, 10-Q, 8-K, technical reports).",
+      "transport": "http",
+      "status": "active"
+    },
+    "asx-announcements": {
+      "url": "https://www.asx.com.au/",
+      "description": "ASX — Australian mining company announcements and disclosures.",
+      "transport": "http",
+      "status": "placeholder"
+    },
+    "infomine": {
+      "url": "https://www.mining-technology.com/",
+      "description": "Mining Intelligence / InfoMine — cost data, benchmarks, mine-site databases. Requires subscription.",
+      "transport": "http",
+      "status": "placeholder",
+      "auth": "subscription-required"
+    }
+  }
+}
